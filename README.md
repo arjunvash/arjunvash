@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**arjunvash/arjunvash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Arjun 👋
 
-Here are some ideas to get you started:
+B.Tech CSE (AI & ML) Student  
+Passionate about AI, Backend Development & Full-Stack Projects  
+Building real-world applications and continuously learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##  Tech Stack
+-  Languages: Java, Python, C  
+-  Web: HTML, CSS, JavaScript, React.js, Node.js, Express.js  
+-  AI/ML: TensorFlow, Keras, OpenCV, Scikit-learn  
+-  Databases: MongoDB, MySQL  
+-  Tools: Git, GitHub, VS Code  
+
+
+## Currently Learning
+- Advanced Backend Development  
+- System Design Basics  
+- Scalable Web Applications  
+
+
+
+
+
+⭐️ *Always open to learning, collaboration, and new opportunities!*
