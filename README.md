@@ -1,13 +1,10 @@
-## Hi there 👋
-
 # Hi, I'm Arjun 👋
-
 B.Tech CSE (AI & ML) Student  
 Passionate about AI, Backend Development & Full-Stack Projects  
 Building real-world applications and continuously learning  
 
 
-##  Tech Stack
+## Tech Stack
 -  Languages: Java, Python, C  
 -  Web: HTML, CSS, JavaScript, React.js, Node.js, Express.js  
 -  AI/ML: TensorFlow, Keras, OpenCV, Scikit-learn  
