@@ -21,4 +21,4 @@ Building real-world applications and continuously learning
 
 
 
-⭐️ *Always open to learning, collaboration, and new opportunities!*
+⭐️ *Code is like humor. When you have to explain it, it’s bad.*
